@@ -6,7 +6,7 @@ Add content here!
 
 # Generating a Plot
 
-We will create a simple ggplot2 graph using R's built-in `mtcars` dataset.
+We will create a simple ggplot graph using R's built-in `mtcars` dataset.
 
 ```{r}
 # Load necessary libraries
